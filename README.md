@@ -2,4 +2,4 @@
 A basic library management system built on TurboC++.
 ### Developers
 - [Aieshah Nasir](https://github.com/aie007)
-- Nandini Joshi
+- [Nandini Joshi](https://github.com/aie007)
